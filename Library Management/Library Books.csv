@@ -1,0 +1,35 @@
+Type,Last Name,First Name,Book Title,ISBN13,Status
+Drama,Shakespeare,William,King Lear,9780743482769,Available
+Epic,Homer,,The Odyssey,9780140268867,Available
+Fiction,Baum,L. Frank,The Wizard of Oz,9780141321028,Available
+Fiction,Calvino,Italo,The Nonexistent Knight,9780156659758,Available
+Fiction,Fitzgerald,F. Scott,The Great Gatsby,9780743273565,Available
+Fiction,Morrison,Toni,Beloved,9781400033416,Available
+Fiction,Orwell,George,Animal Farm,9780451526342,Available
+Fiction,Riordan,Rick,The Battle of the Labyrinth,9781423101468,Available
+Fiction,Riordan,Rick,The Last Olympian,9781423101475,Available
+Fiction,Riordan,Rick,The Sea of Monsters,9780786856862,Available
+Fiction,Riordan,Rick,The Titan's Curse,9781423101451,Available
+Fiction,Rowling,J.K.,Harry Potter and the Chamber of Secrets,9780439064873,Available
+Fiction,Rowling,J.K.,Harry Potter and the Goblet of Fire,9780439139601,Available
+Fiction,Rowling,J.K.,Harry Potter and the Order of the Phoenix,9780439358071,Available
+Fiction,Rowling,J.K.,Harry Potter and the Prisoner of Azkaban,9780439136365,Available
+Fiction,Rowling,J.K.,Harry Potter and the Sorcerer's Stone,9780590353427,Available
+Manga,Kubo,Tite,"Bleach, Vol. 1",9781591164418,Available
+Manga,Kubo,Tite,"Bleach, Vol. 2",9781591164456,Available
+Manga,Kubo,Tite,"Bleach, Vol. 3",9781591164470,Available
+Manga,Kubo,Tite,"Bleach, Vol. 4",9781591164449,Available
+Manga,Toriyama,Akira,"Dragon Ball, Vol. 1",9781569319208,Available
+Manga,Toriyama,Akira,"Dragon Ball, Vol. 2",9781569319215,Available
+Manga,Toriyama,Akira,"Dragon Ball, Vol. 3",9781569319222,Available
+Nonfiction,Gawande,Atul,Being Mortal: Medicine and What Matters in the End,9780805095159,Available
+Nonfiction,Hawking,Stephen,A Brief History of Time,9780553380163,Available
+Nonfiction,Hill,Napoleon,Think and Grow Rich,9781585424337,Available
+Nonfiction,Kahneman,Daniel,"Thinking, Fast and Slow",9780374533557,Available
+Nonfiction,Obama,Michelle,Becoming,9781524763138,Available
+Drama,Wilson,August,Fences,9780452275152,Unavailable
+Fiction,Riordan,Rick,The Lightning Thief,9780786838653,Unavailable
+Fiction,Rowling,J.K.,Harry Potter and the Half-Blood Prince,9780439785969,Unavailable
+Fiction,Saadawi,Nawal El,Woman at Point Zero,9781848133151,Unavailable
+Manga,Kubo,Tite,"Bleach, Vol. 5",9781591164432,Unavailable
+Nonfiction,Harari,Yuval Noah,Sapiens: A Brief History of Humankind,9780062316110,Unavailable
